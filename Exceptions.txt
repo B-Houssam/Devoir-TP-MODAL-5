@@ -1,0 +1,7 @@
+
+Class: pack1.P Package: java.lang Methode: main line: 51 AT: Wed May 20 15:20:52 CET 2020 message: null
+Class: pack1.P Package: java.lang Methode: main line: 63 AT: Wed May 20 15:42:38 CET 2020 message: null
+Class: pack1.P Package: java.lang Methode: main line: 63 AT: Wed May 20 15:42:40 CET 2020 message: null
+Class: pack1.P Package: java.lang Methode: main line: 80 AT: Wed May 20 16:02:12 CET 2020 message: null
+Class: pack1.P Package: java.lang Methode: main line: 78 AT: Wed May 20 16:14:15 CET 2020 message: null
+Class: pack1.Generer Package: java.lang Methode: <init> line: 22 AT: Wed May 20 16:14:41 CET 2020 message: [Ljava.lang.Object; cannot be cast to [Ljava.lang.String;
