@@ -1,34 +1,11 @@
 package pack1;
 
-import java.awt.FlowLayout;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
-import java.io.BufferedWriter;
 import java.io.File;
-import java.io.FileWriter;
 import java.io.FilenameFilter;
-import java.io.IOException;
-import java.lang.reflect.Constructor;
-import java.lang.reflect.Field;
-import java.lang.reflect.Method;
-import java.net.URL;
-import java.net.URLClassLoader;
 import java.util.ArrayList;
-import java.util.Date;
 import java.util.List;
-import java.awt.Desktop;
 
-import javax.swing.JButton;
 import javax.swing.JFileChooser;
-import javax.swing.JFrame;
-import javax.swing.JLabel;
-import javax.swing.JOptionPane;
-import javax.swing.JPanel;
-
-import java.awt.Color;
-import java.awt.Graphics;
-import java.awt.Graphics2D;
-
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
@@ -93,13 +70,35 @@ public class P extends JPanel{
 					lc.add(classes[j]);
 				}
 			}	
+
+			/*
 			
-			//System.out.println(lc.size());
+			*/
 			
+			for (int j = 0; j < nbPacks; j++) {
+				
+				List<String> lcc = new ArrayList<String>();
 			
+					File cls = new File(packs+"/"+directories[j]+"/");
+					String[] classes = cls.list(new FilenameFilter() {
+						  @Override
+						  public boolean accept(File current, String name) {
+						    return new File(current, name).isFile();
+						  }
+						});
+					for (int jj = 0; jj < classes.length; jj++) {
+						lcc.add(classes[jj]);
+					}
+					
+					for (int i = 0; i <lcc.size() ; i++) {
+						
+					}
+			}
 			
-			Generer gen = new Generer(lc);
-			JFrame frame = new JFrame("Description graphique");
+			Generer gen = new Generer(directories, lc, path);
+		 
+			JFrame frame = new JFrame("Description graphique de: "+ project);
+			frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);  
 			frame.setSize(660, 800);
 			frame.add(gen);
 			frame.setVisible(true);

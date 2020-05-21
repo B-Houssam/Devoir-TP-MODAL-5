@@ -5,3 +5,71 @@ Class: pack1.P Package: java.lang Methode: main line: 63 AT: Wed May 20 15:42:40
 Class: pack1.P Package: java.lang Methode: main line: 80 AT: Wed May 20 16:02:12 CET 2020 message: null
 Class: pack1.P Package: java.lang Methode: main line: 78 AT: Wed May 20 16:14:15 CET 2020 message: null
 Class: pack1.Generer Package: java.lang Methode: <init> line: 22 AT: Wed May 20 16:14:41 CET 2020 message: [Ljava.lang.Object; cannot be cast to [Ljava.lang.String;
+Class: pack1.P Package: java.lang Methode: main line: 64 AT: Wed May 20 16:17:54 CET 2020 message: null
+Class: pack1.P Package: java.lang Methode: main line: 58 AT: Wed May 20 16:19:03 CET 2020 message: / by zero
+Class: pack1.Generer Package: java.lang Methode: paintComponent line: 33 AT: Wed May 20 16:20:52 CET 2020 message: / by zero
+Class: pack1.Generer Package: java.lang Methode: paintComponent line: 44 AT: Wed May 20 21:22:41 CET 2020 message: 1
+Class: pack1.Generer Package: java.lang Methode: paintComponent line: 44 AT: Wed May 20 21:22:50 CET 2020 message: 1
+Class: pack1.Generer Package: java.lang Methode: paintComponent line: 44 AT: Wed May 20 21:22:50 CET 2020 message: 1
+Class: pack1.Generer Package: java.lang Methode: paintComponent line: 44 AT: Wed May 20 21:23:12 CET 2020 message: 1
+Class: pack1.Generer Package: java.lang Methode: paintComponent line: 44 AT: Wed May 20 21:23:12 CET 2020 message: 1
+Class: pack1.Generer Package: java.lang Methode: paintComponent line: 44 AT: Wed May 20 21:23:24 CET 2020 message: 1
+Class: pack1.Generer Package: java.lang Methode: paintComponent line: 44 AT: Wed May 20 21:23:24 CET 2020 message: 1
+Class: pack1.Generer Package: java.lang Methode: paintComponent line: 44 AT: Wed May 20 21:23:34 CET 2020 message: 1
+Class: pack1.Generer Package: java.lang Methode: paintComponent line: 44 AT: Wed May 20 21:23:34 CET 2020 message: 1
+Class: pack1.Generer Package: java.lang Methode: paintComponent line: 44 AT: Wed May 20 21:24:14 CET 2020 message: 1
+Class: pack1.Generer Package: java.lang Methode: paintComponent line: 44 AT: Wed May 20 21:24:14 CET 2020 message: 1
+Class: java.awt.Container Package: java.lang Methode: checkNotAWindow line: 492 AT: Wed May 20 21:26:53 CET 2020 message: adding a window to a container
+Class: java.awt.Container Package: java.lang Methode: checkNotAWindow line: 492 AT: Wed May 20 21:28:07 CET 2020 message: adding a window to a container
+Class: pack1.Generer Package: java.lang Methode: paintComponent line: 78 AT: Wed May 20 21:56:28 CET 2020 message: 1
+Class: pack1.Generer Package: java.lang Methode: paintComponent line: 78 AT: Wed May 20 21:56:28 CET 2020 message: 1
+Class: pack1.Generer Package: java.lang Methode: paintComponent line: 78 AT: Wed May 20 21:57:55 CET 2020 message: 1
+Class: pack1.Generer Package: java.lang Methode: paintComponent line: 78 AT: Wed May 20 21:57:55 CET 2020 message: 1
+Class: pack1.Generer Package: java.lang Methode: paintComponent line: 78 AT: Wed May 20 21:58:06 CET 2020 message: 1
+Class: pack1.Generer Package: java.lang Methode: paintComponent line: 78 AT: Wed May 20 21:58:06 CET 2020 message: 1
+Class: pack1.Generer Package: java.lang Methode: paintComponent line: 78 AT: Wed May 20 21:58:15 CET 2020 message: 1
+Class: pack1.Generer Package: java.lang Methode: paintComponent line: 78 AT: Wed May 20 21:58:15 CET 2020 message: 1
+Class: pack1.Generer Package: java.lang Methode: paintComponent line: 78 AT: Wed May 20 21:58:32 CET 2020 message: 1
+Class: pack1.Generer Package: java.lang Methode: paintComponent line: 78 AT: Wed May 20 21:58:32 CET 2020 message: 1
+Class: pack1.Generer Package: java.lang Methode: paintComponent line: 79 AT: Wed May 20 21:59:22 CET 2020 message: 1
+Class: pack1.Generer Package: java.lang Methode: paintComponent line: 79 AT: Wed May 20 21:59:23 CET 2020 message: 1
+Class: pack1.Generer Package: java.lang Methode: paintComponent line: 79 AT: Wed May 20 21:59:59 CET 2020 message: 1
+Class: pack1.Generer Package: java.lang Methode: paintComponent line: 79 AT: Wed May 20 21:59:59 CET 2020 message: 1
+Class: pack1.P Package: java.lang Methode: main line: 65 AT: Wed May 20 22:04:08 CET 2020 message: null
+Class: pack1.P Package: java.lang Methode: main line: 65 AT: Wed May 20 22:08:32 CET 2020 message: null
+Class: pack1.P Package: java.lang Methode: main line: 65 AT: Wed May 20 22:40:58 CET 2020 message: null
+Class: pack1.P Package: java.lang Methode: main line: 65 AT: Wed May 20 22:42:51 CET 2020 message: null
+Class: pack1.P Package: java.lang Methode: main line: 65 AT: Wed May 20 22:42:53 CET 2020 message: null
+Class: java.lang.Class Package: java.lang Methode: getMethod line: 1786 AT: Wed May 20 23:43:53 CET 2020 message: spec.Arithmitique.Mul(int)
+Class: java.lang.Class Package: java.lang Methode: getMethod line: 1786 AT: Wed May 20 23:43:53 CET 2020 message: spec.Arithmitique.Mul(int)
+Class: java.lang.Class Package: java.lang Methode: getMethod line: 1786 AT: Wed May 20 23:44:28 CET 2020 message: spec.Arithmitique.Mul(int)
+Class: java.lang.Class Package: java.lang Methode: getMethod line: 1786 AT: Wed May 20 23:44:39 CET 2020 message: spec.Arithmitique.Mul(int)
+Class: pack1.P Package: java.lang Methode: main line: 126 AT: Thu May 21 00:30:20 CET 2020 message: 2
+Class: pack1.Generer Package: java.lang Methode: paintComponent line: 124 AT: Thu May 21 12:16:15 CET 2020 message: null
+Class: pack1.Generer Package: java.lang Methode: paintComponent line: 124 AT: Thu May 21 12:16:15 CET 2020 message: null
+Class: java.io.FileInputStream Package: java.lang Methode: open0 line: -2 AT: Thu May 21 13:02:17 CET 2020 message: /home/houssam/DummyData/src/Test.java (Aucun fichier ou dossier de ce type)
+Class: java.io.FileInputStream Package: java.lang Methode: open0 line: -2 AT: Thu May 21 13:02:17 CET 2020 message: /home/houssam/DummyData/src/Test.java (Aucun fichier ou dossier de ce type)
+Class: java.io.FileInputStream Package: java.lang Methode: open0 line: -2 AT: Thu May 21 13:03:00 CET 2020 message: /home/houssam/DummyData/src/spec2Test.java (Aucun fichier ou dossier de ce type)
+Class: java.io.FileInputStream Package: java.lang Methode: open0 line: -2 AT: Thu May 21 13:03:00 CET 2020 message: /home/houssam/DummyData/src/spec2Test.java (Aucun fichier ou dossier de ce type)
+Class: java.io.FileInputStream Package: java.lang Methode: open0 line: -2 AT: Thu May 21 13:03:19 CET 2020 message: /home/houssam/DummyData/src/spec2Test.java (Aucun fichier ou dossier de ce type)
+Class: java.io.FileInputStream Package: java.lang Methode: open0 line: -2 AT: Thu May 21 13:03:19 CET 2020 message: /home/houssam/DummyData/src/spec2Test.java (Aucun fichier ou dossier de ce type)
+Class: java.io.FileInputStream Package: java.lang Methode: open0 line: -2 AT: Thu May 21 13:28:03 CET 2020 message: /home/houssam/DummyData/src/spec2/Test.java.java (Aucun fichier ou dossier de ce type)
+Class: java.io.FileInputStream Package: java.lang Methode: open0 line: -2 AT: Thu May 21 13:28:03 CET 2020 message: /home/houssam/DummyData/src/spec2/Test.java.java (Aucun fichier ou dossier de ce type)
+Class: java.util.ArrayList Package: java.lang Methode: rangeCheck line: 657 AT: Thu May 21 14:07:18 CET 2020 message: Index: 3, Size: 3
+Class: java.util.ArrayList Package: java.lang Methode: rangeCheck line: 657 AT: Thu May 21 14:07:18 CET 2020 message: Index: 3, Size: 3
+Class: java.util.ArrayList Package: java.lang Methode: rangeCheck line: 657 AT: Thu May 21 14:08:47 CET 2020 message: Index: 3, Size: 3
+Class: java.util.ArrayList Package: java.lang Methode: rangeCheck line: 657 AT: Thu May 21 14:10:45 CET 2020 message: Index: 3, Size: 3
+Class: java.util.ArrayList Package: java.lang Methode: rangeCheck line: 657 AT: Thu May 21 14:10:45 CET 2020 message: Index: 3, Size: 3
+Class: java.util.ArrayList Package: java.lang Methode: rangeCheck line: 657 AT: Thu May 21 14:11:19 CET 2020 message: Index: 3, Size: 3
+Class: java.util.ArrayList Package: java.lang Methode: rangeCheck line: 657 AT: Thu May 21 14:11:19 CET 2020 message: Index: 3, Size: 3
+Class: pack1.Generer Package: java.lang Methode: paintComponent line: 179 AT: Thu May 21 15:00:41 CET 2020 message: 2
+Class: pack1.Generer Package: java.lang Methode: paintComponent line: 179 AT: Thu May 21 15:00:41 CET 2020 message: 2
+Class: pack1.P Package: java.lang Methode: main line: 41 AT: Thu May 21 15:06:07 CET 2020 message: null
+Class: java.util.ArrayList Package: java.lang Methode: rangeCheck line: 657 AT: Thu May 21 15:22:25 CET 2020 message: Index: 2, Size: 2
+Class: java.util.ArrayList Package: java.lang Methode: rangeCheck line: 657 AT: Thu May 21 15:22:25 CET 2020 message: Index: 2, Size: 2
+Class: pack1.P Package: java.lang Methode: main line: 41 AT: Thu May 21 15:35:48 CET 2020 message: null
+Class: pack1.P Package: java.lang Methode: main line: 41 AT: Thu May 21 15:35:56 CET 2020 message: null
+Class: pack1.P Package: java.lang Methode: main line: 55 AT: Thu May 21 15:38:45 CET 2020 message: null
+Class: pack1.P Package: java.lang Methode: main line: 41 AT: Thu May 21 15:39:13 CET 2020 message: null
+Class: pack1.P Package: java.lang Methode: main line: 55 AT: Thu May 21 15:47:10 CET 2020 message: null
+Class: pack1.P Package: java.lang Methode: main line: 41 AT: Thu May 21 15:56:25 CET 2020 message: null
