@@ -200,6 +200,8 @@ public class Generer extends JPanel{
 			System.out.println("Exception: " + e.toString());
 			ExceptionSave s = new ExceptionSave();
 			s.save(e);
+		}finally {
+			System.out.println("Jod_Done");
 		}
 	}
 }
