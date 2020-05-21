@@ -73,3 +73,5 @@ Class: pack1.P Package: java.lang Methode: main line: 55 AT: Thu May 21 15:38:45
 Class: pack1.P Package: java.lang Methode: main line: 41 AT: Thu May 21 15:39:13 CET 2020 message: null
 Class: pack1.P Package: java.lang Methode: main line: 55 AT: Thu May 21 15:47:10 CET 2020 message: null
 Class: pack1.P Package: java.lang Methode: main line: 41 AT: Thu May 21 15:56:25 CET 2020 message: null
+Class: pack1.P Package: java.lang Methode: main line: 41 AT: Thu May 21 21:54:07 CET 2020 message: null
+Class: pack1.P Package: java.lang Methode: main line: 41 AT: Thu May 21 22:08:08 CET 2020 message: null

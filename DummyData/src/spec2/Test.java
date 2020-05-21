@@ -8,15 +8,16 @@ public class Test {
 		a.testingA();
 	}
 	
+	
 	public void nom() {
 		TestTest b = new TestTest();
 		b.testingA();
 		b.otherC();
 	}
-
+	
 	public void hom() {
 		TestTest b = new TestTest();
-		b.testingA();
+		b.autreB();
 		b.otherC();
 		b.blabla();
 	}

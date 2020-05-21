@@ -172,11 +172,25 @@ public class Generer extends JPanel{
 					int x1,x2,y1,y2 = 0;
 					String[] dim = finalRes.get(jj).split(" ");
 					//System.out.println(finalRes.toString());
-					x1=15+150;
-					y1=(350*i)+(25*( (allMeths.indexOf(dim[1]) )+1))+50;
-					x2=(350)+15;
-					y2=(350*i)+(25*( (allMeths.indexOf(dim[0])-length.get(1) )))+50;
-					
+					if (length.get(1)- length.get(0)==-1||length.get(1)- length.get(0)==1) {
+						x1=15+150;
+						y1=(350*i)+(25*( (allMeths.indexOf(dim[1]) )+1))+50;
+						x2=(350)+15;
+						y2=(350*i)+(25*( (allMeths.indexOf(dim[0])-length.get(1) )))+50;
+					}else {
+						if (length.get(1)- length.get(0)==-2||length.get(1)- length.get(0)==2) {
+							x1=15+150;
+							y1=(350*i)+(25*( (allMeths.indexOf(dim[1]) )+1))+50;
+							x2=(350)+15;
+							y2=(350*i)+(25*( (allMeths.indexOf(dim[0])-(length.get(0)-length.get(1))-1)))+50;
+						}else {
+							x1=15+150;
+							y1=(350*i)+(25*( (allMeths.indexOf(dim[1]) )+1))+50;
+							x2=(350)+15;
+							y2=(350*i)+(25*( (allMeths.indexOf(dim[0])-(length.get(0)-length.get(1)))))+50;
+						}
+						
+					}
 					dessin.drawLine(x1, y1, x2, y2);
 				}
 			}
